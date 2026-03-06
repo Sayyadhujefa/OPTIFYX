@@ -84,7 +84,7 @@ It demonstrates how graphical representations can help understand patterns and t
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOURUSERNAME/repository-name.git
+git clone https://github.com/Sayyadhujefa/Machine-Learning-Project.git
 ```
 
 2. Install required libraries
